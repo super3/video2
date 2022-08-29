@@ -10,7 +10,7 @@
 	"dependencies": {
 		"prettier": "^2.2.1",
 		"vue": "^3.0.11",
-		"vue-router": "^4.0.5"
+		"vue-router": "^4.1.5"
 	},
 	"devDependencies": {
 		"@tailwindcss/aspect-ratio": "^0.2.0",
